@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790779390345,
+      "tag": "0000_fluffy_doctor_faustus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790782467950,
+      "tag": "0001_lucky_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790786737430,
+      "tag": "0002_skinny_goblin_queen",
+      "breakpoints": true
+    }
+  ]
+}
